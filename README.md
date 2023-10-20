@@ -1,4 +1,5 @@
-
+<div align="center">
+ 
 Actualmente estudiando programación en 42málaga, <br>interesado en el mundo de la ciberseguridad, inteligencia artificial y los videojuegos
 
 #                                                        💻  Habilidades
@@ -30,3 +31,5 @@ Actualmente estudiando programación en 42málaga, <br>interesado en el mundo de
 
 ##                                                              🌐 CONTACTO 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/martin-dev86) 
+
+</div>
