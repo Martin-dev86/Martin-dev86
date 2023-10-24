@@ -5,7 +5,6 @@ Actualmente estudiando programación en 42málaga, <br>interesado en el mundo de
 #                                                        💻  Habilidades
 
  <tr>
-                <td>Habilidades</td>
                 <td>
                     <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white" alt="Debian">
                     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
