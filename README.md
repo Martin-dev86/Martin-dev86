@@ -37,6 +37,10 @@ El proyecto refleja competencias transferibles a aplicaciones empresariales: an�
 </tr>
 </table>
 
+### Otros proyectos
+
+📚 **[42 Common Core](https://github.com/Martin-dev86/Cursus42)** — Índice de proyectos de programación en C, algoritmos, Unix, procesos y gráficos desarrollados durante mi formación en 42 Málaga.
+
 ## Tecnologías
 
 <div align="center">
