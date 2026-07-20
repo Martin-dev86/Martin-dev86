@@ -1,10 +1,8 @@
 <div align="center">
 
-# Martín · Software Developer
+# Software Engineer
 
-### 42 Málaga · Backend · Sistemas web · Datos e IA
-
-Formación práctica en ingeniería de software, resolución de problemas y desarrollo de productos digitales en equipo.
+### Backend · Integración de Sistemas · Automatización · IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martín_CG-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dev86)
 [![GitHub](https://img.shields.io/badge/GitHub-Martin--dev86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martin-dev86)
@@ -15,11 +13,9 @@ Formación práctica en ingeniería de software, resolución de problemas y desa
 
 ## Perfil
 
-Mi recorrido en **42 Málaga** me ha permitido construir una base sólida en C, algoritmos, Unix, redes, arquitectura web y trabajo colaborativo. El aprendizaje basado en proyectos me ha enseñado a abordar problemas complejos, adaptarme con rapidez y entregar soluciones funcionales en equipos multidisciplinares.
+Mi formación en **42 Málaga** me ha permitido construir una sólida base en ingeniería de software mediante un aprendizaje intensivo basado en proyectos. Durante el currículo he trabajado con programación de sistemas, algoritmos, Linux, redes, arquitecturas cliente-servidor y desarrollo de aplicaciones web, siempre aplicando buenas prácticas de diseño, trabajo en equipo y resolución de problemas.
 
-Actualmente oriento mi perfil hacia el desarrollo backend y full-stack, las integraciones entre sistemas, las APIs, las bases de datos y las aplicaciones empresariales. A futuro quiero especializarme en **ciencia de datos e inteligencia artificial**, aplicando datos, automatización y software a la mejora de procesos y a la toma de decisiones.
-
-Me motiva especialmente crecer en entornos tecnológicos vinculados a operaciones, logística y soluciones **WMS / supply chain**, donde la fiabilidad del software, la integración de datos y el conocimiento del negocio son fundamentales.
+Actualmente centro mi interés en el desarrollo backend y full-stack, las APIs, las bases de datos, la comunicación en tiempo real y la integración entre servicios. Mi objetivo es seguir construyendo software robusto y escalable mientras continúo ampliando conocimientos en arquitectura de software, datos e inteligencia artificial.
 
 ## Proyecto destacado
 
