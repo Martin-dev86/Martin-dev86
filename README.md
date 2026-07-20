@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hola, soy Martín 👋
+# Martín · Software Developer
 
-### Software Developer · 42 Málaga
+### 42 Málaga · Backend · Sistemas web · Datos e IA
 
-Construyo aplicaciones web, sistemas en tiempo real y proyectos donde producto y tecnología avanzan juntos.
+Formación práctica en ingeniería de software, resolución de problemas y desarrollo de productos digitales en equipo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martín_CG-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dev86)
 [![GitHub](https://img.shields.io/badge/GitHub-Martin--dev86-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martin-dev86)
@@ -13,11 +13,13 @@ Construyo aplicaciones web, sistemas en tiempo real y proyectos donde producto y
 
 ---
 
-## Sobre mí
+## Perfil
 
-Actualmente estudio programación en **42 Málaga**, donde desarrollo soluciones prácticas mediante aprendizaje entre pares, trabajo en equipo y proyectos exigentes.
+Mi recorrido en **42 Málaga** me ha permitido construir una base sólida en C, algoritmos, Unix, redes, arquitectura web y trabajo colaborativo. El aprendizaje basado en proyectos me ha enseñado a abordar problemas complejos, adaptarme con rapidez y entregar soluciones funcionales en equipos multidisciplinares.
 
-Me interesan especialmente el desarrollo backend, las experiencias web en tiempo real, la ciberseguridad, la inteligencia artificial y los videojuegos. Disfruto conectando las necesidades de producto con una implementación clara, mantenible y útil.
+Actualmente oriento mi perfil hacia el desarrollo backend y full-stack, las integraciones entre sistemas, las APIs, las bases de datos y las aplicaciones empresariales. A futuro quiero especializarme en **ciencia de datos e inteligencia artificial**, aplicando datos, automatización y software a la mejora de procesos y a la toma de decisiones.
+
+Me motiva especialmente crecer en entornos tecnológicos vinculados a operaciones, logística y soluciones **WMS / supply chain**, donde la fiabilidad del software, la integración de datos y el conocimiento del negocio son fundamentales.
 
 ## Proyecto destacado
 
@@ -27,9 +29,9 @@ Me interesan especialmente el desarrollo backend, las experiencias web en tiempo
 
 ### 🏓 [ft_transcendence](https://github.com/Martin-dev86/ft_transcendence)
 
-Plataforma web multijugador desarrollada como proyecto final del currículo de 42. Integra Pong local y remoto, un hub 3D, autenticación, perfiles, amistades y chat directo en tiempo real.
+Plataforma web multijugador desarrollada como proyecto final del currículo de 42. Integra frontend y backend, APIs, comunicación en tiempo real, autenticación, bases de datos, servicios desacoplados y despliegue reproducible con Docker.
 
-**Mi papel:** Product Owner y Developer, con participación principal verificada en el servicio de chat, su modelo de datos, WebSockets autenticados, notificaciones e integración con frontend, Nginx y Docker.
+El proyecto refleja competencias transferibles a aplicaciones empresariales: análisis de requisitos, coordinación de equipo, modelado de datos, integración entre servicios, gestión de estados en tiempo real y construcción de una solución completa. El repositorio incluye la arquitectura, la documentación técnica y el detalle de las contribuciones del equipo.
 
 `React` · `TypeScript` · `Fastify` · `Express` · `WebSockets` · `Prisma` · `PostgreSQL` · `Docker` · `Nginx` · `Babylon.js`
 
@@ -72,6 +74,6 @@ Plataforma web multijugador desarrollada como proyecto final del currículo de 4
 
 <div align="center">
 
-Abierto a seguir aprendiendo, colaborar y construir proyectos con impacto real.
+Preparado para seguir aprendiendo y aportar en equipos que conecten software, operaciones y datos.
 
 </div>
